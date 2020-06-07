@@ -12,6 +12,6 @@ The report can be found [here](https://github.com/DomNavi/Reproducing-WANN/blob/
 
 The netowork trying to learn how to swing up and balance a pole decided to fall into a local optimum. The easiest way to get score without performing anything complicated is just doing this:
 
-![](media/pole_spin.mp4)
+![](/media/pole_spin.mp4)
 
 
